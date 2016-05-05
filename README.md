@@ -3,6 +3,6 @@
 
 2.rebuild on eclipse
 
-2.only for tomcat6(6.44 or below)
+3.only for tomcat6(6.44 or below)
 
-3.support redis sentinel
+4.support redis sentinel
